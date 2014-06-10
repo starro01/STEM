@@ -27,9 +27,15 @@ Nova Awards are in the following format:
   5.  Project
   6.  Counselor Discussion
 
+Looking for help
+================
+
 At this time, I would like to get get a lengthy list of You Tube videos and
 articles completed for the watching and reading tasks, links for the research, links to help complete the
-activities.
+activities.  Look for this:  "<----- Need help" for sections to help with.
+
+If there is an award I have not started yet, please follow Shoot! as a
+formatting example.
 
 
 Future Goals

@@ -9,11 +9,10 @@ day.
   A.  Spend 3 hours watching and reading from the following links:  
 <sup>Keep in mind you will need to formulate two questions for each
 link.</sup>
-<span style="color:red">
-    * <span style="color:red">list here</span>
-    * Wanted You Tube videos:  see the above topics list
-    * Wanted Articels on the above topics
-</span>
+    * list here   <----- Need help
+    * Wanted You Tube videos:  see the above topics list   <----- Need help
+    * Wanted Articels on the above topics   <----- Need help
+
 2. Complete one of the following Merit Badges:
     * Archery
     * Astronomy
@@ -28,7 +27,7 @@ link.</sup>
 3.  Explain the difference between escape velocity, orbital velocity, and
     terminal velocity.
     <br>Use the following links to understand thise terms:
-    * Resource list
+    * Resource list   <----- Need help
 
     Answer these two questions and dscuss with your coundelor:
       1. Why are satellites usually launched toward the east, and what is a launch
