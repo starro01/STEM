@@ -4,7 +4,7 @@ STEM
 Welcome to the home of the Super NOVA path.  It is the intent of this site to
 eventually have a complete set of steps that any boy scout can follow to obtain
 the Super NOVA award.  In order to accomplish this task, each of the award
-activities needs to be detailed and a step by step process completed.
+activities needs to be detailed and a step by step plan created.
 
 We are looking for contributors.  If you are interested in contributing, please
 feel free to fork this repo and make poll requests.  If you wish to send me the
@@ -41,5 +41,5 @@ formatting example.
 Future Goals
 ============
 
-At some point in the future I would like to create an open rails app to allow a
-scout to create an account and walk the scout through the process.
+At some point in the future I would like to create an open source rails app to allow a
+scout to create an account and walk through the process.
